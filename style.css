@@ -43,6 +43,8 @@ img {
   margin: 5px;
   color: grey;
   border: 1px solid;
+  border-radius: 8px;
+  padding: 5px;
 }
 
 .btn-group {
@@ -61,7 +63,7 @@ i {
   font-weight: 300;
 }
 .card-text > p {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 300;
   padding: 8px;
   line-height: 1.5rem;
